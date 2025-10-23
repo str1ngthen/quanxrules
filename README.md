@@ -1,0 +1,2 @@
+# quanxrules
+quanx规则
